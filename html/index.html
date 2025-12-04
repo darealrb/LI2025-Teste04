@@ -1,27 +1,20 @@
-<body>
-    <div class="container mt-5">
-        <div class="row justify-content-center">
-            <div class="col-md-6 col-lg-3">
-                <h2 class="mb-4">Contacte-nos</h2>
-                <form>
-                    <div class="mb-3">
-                        <label for="email" class="form-label">Email</label>
-                        <input type="email" class="form-control" id="email">
-                    </div>
-                    <div class="mb-3">
-                        <label for="assunto" class="form-label">Assunto</label>
-                        <input type="text" class="form-control" id="assunto">
-                    </div>
-                    <div class="mb-3">
-                        <label for="mensagem" class="form-label">Mensagem</label>
-                        <textarea class="form-control" id="mensagem" rows="3"></textarea>
-                    </div>
-                    <div class="d-grid gap-2">
-                        <button type="submit" class="btn btn-primary">Enviar</button>
-                        <button type="reset" class="btn btn-secondary">Cancelar</button>
-                    </div>
-                </form>
-            </div>
-        </div>
+<form id="contactForm" novalidate>
+    <div class="mb-3">
+        <label for="email" class="form-label">Email *</label>
+        <input type="email" class="form-control" id="email" required>
+        <div class="valid-feedback">Email válido!</div>
+        <div class="invalid-feedback">Por favor, insira um email válido.</div>
     </div>
-</body>
+    
+    <div class="mb-3">
+        <label for="assunto" class="form-label">Assunto *</label>
+        <input type="text" class="form-control" id="assunto" required>
+        <div class="invalid-feedback">Por favor, preencha o assunto.</div>
+    </div>
+   
+    <div class="mb-3">
+        <label for="mensagem" class="form-label">Mensagem *</label>
+        <textarea class="form-control" id="mensagem" rows="3" required></textarea>
+        <div class="invalid-feedback">Por favor, escreva uma mensagem.</div>
+    </div>
+</form>
