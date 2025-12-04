@@ -1,0 +1,114 @@
+  473  git clone https://github.com/darealrb/LI2025-Teste04.git
+  474  cd LI2025_Teste04
+  475  ls
+  476  LI2025-Teste04
+  477  cd LI2025-Teste04
+  478  ls
+  479  mkdir js cdd
+  480  ls
+  481  rm cdd
+  482  sudo rm cdd
+  483  sudo rmdir cdd
+  484  ls
+  485  mkdir css
+  486  ls
+  487  cd js
+  488  echo "//ficheiro de script" > script.js
+  489  ls
+  490  touch ../css/style.css
+  491  ls
+  492  cd ..
+  493  ls
+  494  history > cmdsTarefa2.txt
+  495  ls
+  496  git add .
+  497  git commit -m "2ª tarefa concluída: pastas js e css criadas."
+  498  git push origin main 
+  499  ls
+  500  mkdir html
+  501  ls
+  502  cd html
+  503  touch index.html
+  504  nano index.html 
+  505  git add .
+  506  git commit -m "3ª tarefa concluída"
+  507  git push origin main
+  508  git push origin main 
+  509  ls
+  510  nano index.html 
+  511  git add .
+  512  [200~git add .
+  513  git commit -m "4ª tarefa"
+  514  git push origin main 
+  515  nano index.html 
+  516  cd ..
+  517  ls
+  518  cd js/
+  519  ls
+  520  nano script.js 
+  521  cd ..
+  522  ls
+  523  commit add .
+  524  git add .
+  525  git commit -m "5ª tarefa cumprida"
+  526  git push origin main 
+  527  # Salva o histórico no seu ficheiro de notas
+  528  history >> ~/A-######-notas.txt
+  529  # Ou se estiver noutra pasta
+  530  history >> /caminho/para/A-######-notas.txt
+  531  history >> ~/A-134238-notas.txt
+  532  ls~
+  533  ls
+  534  touch A-134238-notas.txt 
+  535  ls
+  536  # Salva o histórico no seu ficheiro de notas
+  537  history >> ~/A-134238-notas.txt 
+  538  nano A-134238-notas.txt 
+  539  ls
+  540  # 1. Crie o ficheiro de notas na máquina Azure
+  541  nano ~/A-123456-notas.txt
+  542  # 2. Adicione o cabeçalho
+  543  NOME: Seu Nome
+  544  NMEC: 123456
+  545  # 3. Para cada comando que executar, faça:
+  546  echo "=== $(date) ===" >> ~/A-123456-notas.txt
+  547  echo "Comando: pwd" >> ~/A-123456-notas.txt
+  548  pwd >> ~/A-123456-notas.txt
+  549  echo "" >> ~/A-123456-notas.txt
+  550  # 4. Veja o conteúdo sempre que quiser
+  551  cat ~/A-123456-notas.txt
+  552  ls
+  553  rm A-123456-notas.txt 
+  554  rm A-134238-notas.txt 
+  555  ls
+  556  cd LI2025-Teste04
+  557  ls
+  558  rm A-134238-notas.txt 
+  559  # 1. Crie o ficheiro de notas na máquina Azure
+  560  nano ~/A-123456-notas.txt
+  561  # 2. Adicione o cabeçalho
+  562  NOME: Seu Nome
+  563  NMEC: 123456
+  564  # 3. Para cada comando que executar, faça:
+  565  echo "=== $(date) ===" >> ~/A-123456-notas.txt
+  566  echo "Comando: pwd" >> ~/A-123456-notas.txt
+  567  pwd >> ~/A-123456-notas.txt
+  568  echo "" >> ~/A-123456-notas.txt
+  569  # 4. Veja o conteúdo sempre que quiser
+  570  cat ~/A-123456-notas.txt
+  571  ls
+  572  cd ..
+  573  ls
+  574  nano A-134238-notas.txt 
+  575  rm A-123456-notas.txt 
+  576  rm A-134238-notas.txt 
+  577  ls
+  578  cd LI2025-Teste04
+  579  ls
+  580  nano A-123456-notas.txt
+  581  ls
+  582  cd ..
+  583  ls
+  584  cd LI2025-Teste04
+  585  ls
+  586  history > comandos.txt

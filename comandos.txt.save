@@ -1,0 +1,484 @@
+    1  sudo apt update 
+    2  sudo apt upgrade -y
+    3  sudo apt install apache2    4  sudo systemctl status apache2
+    5  sudo systemctl start apache2
+    6  sudo systemctl enable apache2
+    7  sudo systemctl start apache2
+    8  sudo systemctl enable apache2
+    9  sudo systemctl status apache2
+   10  sudo systemctl start apache2
+   11  sudo systemctl enable apache2
+   12  sudo apt update
+   13  sudo apt install git -y
+   14  git clone https://github.com/darealrb/fabiopaneleiro.git
+   15  git clone https://github.com/darealrb/ofabnioehomosexual.git
+   16  cd
+   17  ls
+   18  cd fabiopaneleiro
+   19  cd -
+   20  ls
+   21  ls ofabnioehomosexual
+   22  cd ofabnioehomosexual
+   23  cd ..
+   24  ls
+   25  git clone https://github.com/darealrb/Maquina.git
+   26  ls
+   27  cd Maquina
+   28  mkdir meu-projeto 
+   29  ls´
+   30  ls
+   31  cd meu-projeto
+   32  git init 
+   33  git config --global user.name "darealrb" 
+   34  git config --global user.email "tomas.goncalves@ua.pt
+   35  git remote add origin https://github.com/darealrb/Maquina.git
+   36  git config --global user.email "tomas.goncalves@ua.pt
+   37  ssh-keygen -t rsa -b 80 -c "tomas.goncalves@ua.pt" 
+   38  cs ..
+   39  ls
+   40  coleopdsv
+   41  iodsnvi´
+   42  mdsopmv
+   43  ls
+   44  cd..
+   45  cd ..
+   46  ls
+   47  cd var 
+   48  cd www
+   49  cd html
+   50  ls
+   51  sudo
+   52  sudo git clone https://github.com/darealrb/maquina2.0.git
+   53  cd
+   54  ls
+   55  cd Maquina
+   56  ls´
+   57  ls
+   58  meu-projeto
+   59  cd meu-projeto
+   60  ls
+   61  cd ..
+   62  ls
+   63  cd ..
+   64  ls
+   65  cd var
+   66  cd html
+   67  cd www
+   68  cd html
+   69  ls
+   70  git pull main 
+   71  ls
+   72  cd maquina2.0/
+   73  ls
+   74  git pull main
+   75  sudo git pull main
+   76  git pull
+   77  cd ..
+   78  sudo rm -R maquina2.0
+   79  ls
+   80  sudo git clone https://github.com/darealrb/maquina2.0.git
+   81  ls
+   82  cd Maquina/
+   83  ls
+   84  cd meu-projeto/
+   85  ls
+   86  git add https://github.com/darealrb/maquina2.0.git
+   87  git remote add origin https://github.com/darealrb/maquina2.0.git
+   88  git push -u origin main
+   89  git add "C:\Users\Vitur\Desktop\Maquina\maquina2.0\index.html"
+   90  ls
+   91  git pull index.html
+   92  azureuser@maquina:~/Maquina/meu-projeto$ ls -la
+   93  ls -la
+   94  git add index.html
+   95  git commit -m "Add index.html file"
+   96  git add index.html
+   97  [200~# Create index.html file
+   98  nano index.html
+   99  [200~# Go to your project folder
+  100  cd ~/Maquina/meu-projeto
+  101  # Remove the existing git setup (if needed)
+  102  rm -rf .git
+  103  # Check what files are there
+  104  ls -la~
+  105  # Create a simple HTML file first
+  106  # Verify the file was created
+  107  ls -la
+  108  # Initialize new git repository
+  109  git init
+  110  # Add your HTML file
+  111  git add index.html
+  112  # Commit the file
+  113  git commit -m "Initial commit with HTML file"
+  114  # Connect to your GitHub repository
+  115  git remote add origin https://github.com/darealrb/maquina2.0.git
+  116  ls
+  117  rm fabiopaneleiro/
+  118  sudo rm fabiopaneleiro/
+  119  rm -r fabiopaneleiro/
+  120  rm -r ofabnioehomosexual/
+  121  ls
+  122  cd Maquina/
+  123  ls
+  124  cd meu-projeto/
+  125  ls
+  126  cd ..
+  127  cd ..~
+  128  cd ..
+  129  ls
+  130  cd azureuser/
+  131  git clone https://github.com/darealrb/LI2025-Teste03.git
+  132  cd LI2025-Teste03
+  133  mkdir A134238
+  134  cd A134238
+  135  echo "Teste de LI 2025/2026" > README.md
+  136  cd ..
+  137  git add.
+  138  git add
+  139  git add .
+  140  git config --global user.email "tomas.goncalves@ua.pt"
+  141  it config --global user.name "darealrb"
+  142  git config --global user.name "darealrb"
+  143  git commit -m "2ª tarefa concluída"
+  144  git push origin main
+  145  git push origin main 
+  146  git add index.html
+  147  git commit -m "3ª tarefa concluída"
+  148  git push origin main
+  149  ~git push origin main
+  150  git push origin main
+  151  git push origin main https://github.com/darealrb/LI2025-Teste03.git
+  152  git push origin main
+  153  git pull origin main 
+  154  git add index.html
+  155  toutch index.html
+  156  touch index.html
+  157  ls
+  158  vim index.html 
+  159  git add index.html
+  160  ls
+  161  git commit -m "3ª tarefa concluída"
+  162  git push origin main
+  163  gir push origin main 
+  164  git push origin main 
+  165  ls
+  166  vim index.html 
+  167  git add index.html
+  168  git commit -m"4ª tarefa"
+  169  git push origin main
+  170  git push origin main 
+  171  darealrb
+  172  git push origin main 
+  173  git push origin main
+  174  cd
+  175  cd LI2025-Teste03
+  176  ls
+  177  cd LI2025-Teste03
+  178  ~
+  179  git pull origin main
+  180  cp index.html disciplinas.html
+  181  git add disciplinas.html
+  182  git commit -m "Criado ficheiro disciplinas.html a partir do ficheiro index.html"
+  183  git push origin main
+  184  git push origin main 
+  185  git push origin main
+  186  git push origin main 
+  187  git pull origin main
+  188  history > meusComandosAzure.txt
+  189  ls
+  190  cat meusComandosAzure.txt 
+  191  vim meusComandosAzure.txt 
+  192  ls
+  193  sudo git add .
+  194  git add . && git commit -m "history azure" && git push origin main
+  195  git push origin main 
+  196  ss
+  197  ls
+  198  rm -rf LI2025-Teste03/
+  199  cd Maquina/
+  200  ls
+  201  cd ..
+  202  ls´
+  203  ls
+  204  git clone https://github.com/darealrb/LI2025-Teste03.git
+  205  cd LI2025-Teste03
+  206  ls
+  207  mkdir A134238
+  208  ls
+  209  cd A134238/
+  210  echo "Teste de LI 2025/2026" > README.md
+  211  ls
+  212  cd ..
+  213  git add
+  214  git add .
+  215  git config user.email "tomas.goncalves@ua.pt"
+  216  git config user.name "darealrb"
+  217  git commit -m "2ª tarefa concluida"
+  218  git push origin main
+  219  nano index.html
+  220  ls
+  221  git add
+  222  git add .
+  223  git commit -m "3ª tarefa concluída"
+  224  git push origin main 
+  225  git push origin main
+  226  git push origin main 
+  227  git push origin main
+  228  git push origin main 
+  229  git push origin main
+  230  nano index.html 
+  231  ls
+  232  git add .
+  233  git commit -m "4ª tarefa"
+  234  git push origin main
+  235  cp index.html disciplinas.html
+  236  ls
+  237  git add .
+  238  git commit -m "Criado ficheirodisciplinas.html a partir do ficheiro index.html
+  239  cd..
+  240  cd ..
+  241  push
+  242  ls
+  243  git commit -m "Criado ficheirodisciplinas.html a partir do ficheiro index.html
+  244  git commit -m "Criado ficheirodisciplinas.html a partir do ficheiro index.html"
+  245  git push origin main
+  246  nano disciplinas.html
+  247  git add .
+  248  git commit -m "5ª tarefa cumprida"
+  249  git push origin main
+  250  git pull origin main
+  251  history > meusComandosAzure.txt
+  252  ls
+  253  cat meusComandosAzure.txt
+  254  git add . && git commit -m "history azure" && git push origin main 
+  255  git push origin main
+  256  git push origin main 
+  257  git pull origin main
+  258  history > meusComandosLocais.txt
+  259  cat meusComandosLocais.txt
+  260  git add . && git commmit -m "Tarefa 6 Cumprida" && git push origin main 
+  261  git add . && git commit -m "Tarefa 6 Cumprida" && git push origin main
+  262  ls
+  263  nano meusComandosAzure.txt 
+  264  nano meusComandosLocais.txt 
+  265  ls
+  266  cd Maquina/
+  267  ls
+  268  cd meu-projeto/
+  269  ls
+  270  cd ..
+  271  ls´
+  272  ls
+  273  git clone https://github.com/darealrb/sunset.git
+  274  ls
+  275  cd sunset/
+  276  ls
+  277  git add "C:\Users\Vitur\Desktop\uni\Algoritmia_Programacao\Estudo para o teste\index.html"
+  278  copy "C:\Users\Vitur\Desktop\uni\Algoritmia_Programacao\Estudo para o teste\index.html"
+  279  cp "C:\Users\Vitur\Desktop\uni\Algoritmia_Programacao\Estudo para o teste\index.html"
+  280  \Users\Vitur\Desktop\uni\Algoritmia_Programacao\Estudo para o teste\index.html
+  281  cp \Users\Vitur\Desktop\uni\Algoritmia_Programacao\Estudo para o teste\index.html
+  282  ls
+  283  git clone https://github.com/darealrb/sunset.git
+  284  ls
+  285  git push origin main´
+  286  git push origin main 
+  287  ls
+  288  cd sunset/
+  289  ls
+  290  sudo chown -R 
+  291  ls
+  292  sudo ln -sf index.html
+  293  sudo ln -sf index.html 
+  294  sudo ln -sf ./index.html 
+  295  sudo nano /etc/apache2/mods-enabled/dir.conf
+  296  ls
+  297  sudo systemctl status apache2
+  298  ls´
+  299  ls
+  300  cd ..
+  301  ls
+  302  cd ..
+  303  ls
+  304  cd var
+  305  ls
+  306  cd www/
+  307  ls
+  308  cd html/
+  309  ls
+  310  rm index.html 
+  311  ls
+  312  sudo rm index.html 
+  313  ls
+  314  sudo rm maquina2.0/
+  315  rmdir maquina2.0/
+  316  sudo rmdir maquina2.0/
+  317  cd maquina2.0/
+  318  ls
+  319  rm README.md 
+  320  sudo rm README.md 
+  321  ls
+  322  sudo rm index.html 
+  323  ls
+  324  cd ..
+  325  ls
+  326  sudo rmdir maquina2.0/
+  327  cd maquina2.0/
+  328  ls
+  329  sudo rmdir -r maquina2.0~
+  330  rm -r maquina2.0/
+  331  cd ..
+  332  rm -r maquina2.0/
+  333  ls
+  334  sudo rm -r maquina2.0/
+  335  ls
+  336  git clone https://github.com/darealrb/sunset.git
+  337  sudo clone https://github.com/darealrb/sunset.git
+  338  git clone https://github.com/darealrb/sunset.git
+  339  sudo git clone https://github.com/darealrb/sunset.git
+  340  ls
+  341  cd sunset/
+  342  ls
+  343  sudo chown -R www-data:www-data /var/www/html/
+  344  sudo chmod -R 755 /var/www/html/
+  345  ls
+  346  sudo systemctl restart apache2
+  347  sudo mv mypage.html index.html
+  348  sudo mv index.html
+  349  ls
+  350  sudo mv index.html
+  351  ls
+  352  ls -la
+  353  sudo chown www-data:www-data index.html
+  354  sudo chmod 644 index.html
+  355  ls
+  356  sudo systemctl restart apache2
+  357  sudo nano /etc/apache2/mods-enabled/dir.conf
+  358  cd ..
+  359  ls
+  360  cd var/
+  361  cd www/
+  362  cd html/
+  363  LS
+  364  ls´
+  365  ls
+  366  cd sunset/
+  367  ls
+  368  cd ..
+  369  sudo rm -rf *
+  370  ls
+  371  sudo 
+  473  git clone https://github.com/darealrb/LI2025-Teste04.git
+  474  cd LI2025_Teste04
+  475  ls
+  476  LI2025-Teste04
+  477  cd LI2025-Teste04
+  478  ls
+  479  mkdir js cdd
+  480  ls
+  481  rm cdd
+  482  sudo rm cdd
+  483  sudo rmdir cdd
+  484  ls
+  485  mkdir css
+  486  ls
+  487  cd js
+  488  echo "//ficheiro de script" > script.js
+  489  ls
+  490  touch ../css/style.css
+  491  ls
+  492  cd ..
+  493  ls
+  494  history > cmdsTarefa2.txt
+  495  ls
+  496  git add .
+  497  git commit -m "2ª tarefa concluída: pastas js e css criadas."
+  498  git push origin main 
+  499  ls
+  500  mkdir html
+  501  ls
+  502  cd html
+  503  touch index.html
+  504  nano index.html 
+  505  git add .
+  506  git commit -m "3ª tarefa concluída"
+  507  git push origin main
+  508  git push origin main 
+  509  ls
+  510  nano index.html 
+  511  git add .
+  512  [200~git add .
+  513  git commit -m "4ª tarefa"
+  514  git push origin main 
+  515  nano index.html 
+  516  cd ..
+  517  ls
+  518  cd js/
+  519  ls
+  520  nano script.js 
+  521  cd ..
+  522  ls
+  523  commit add .
+  524  git add .
+  525  git commit -m "5ª tarefa cumprida"
+  526  git push origin main 
+  527  # Salva o histórico no seu ficheiro de notas
+  528  history >> ~/A-######-notas.txt
+  529  # Ou se estiver noutra pasta
+  530  history >> /caminho/para/A-######-notas.txt
+  531  history >> ~/A-134238-notas.txt
+  532  ls~
+  533  ls
+  534  touch A-134238-notas.txt 
+  535  ls
+  536  # Salva o histórico no seu ficheiro de notas
+  537  history >> ~/A-134238-notas.txt 
+  538  nano A-134238-notas.txt 
+  539  ls
+  540  # 1. Crie o ficheiro de notas na máquina Azure
+  541  nano ~/A-123456-notas.txt
+  542  # 2. Adicione o cabeçalho
+  543  NOME: Seu Nome
+  544  NMEC: 123456
+  545  # 3. Para cada comando que executar, faça:
+  546  echo "=== $(date) ===" >> ~/A-123456-notas.txt
+  547  echo "Comando: pwd" >> ~/A-123456-notas.txt
+  548  pwd >> ~/A-123456-notas.txt
+  549  echo "" >> ~/A-123456-notas.txt
+  550  # 4. Veja o conteúdo sempre que quiser
+  551  cat ~/A-123456-notas.txt
+  552  ls
+  553  rm A-123456-notas.txt 
+  554  rm A-134238-notas.txt 
+  555  ls
+  556  cd LI2025-Teste04
+  557  ls
+  558  rm A-134238-notas.txt 
+  559  # 1. Crie o ficheiro de notas na máquina Azure
+  560  nano ~/A-123456-notas.txt
+  561  # 2. Adicione o cabeçalho
+  562  NOME: Seu Nome
+  563  NMEC: 123456
+  564  # 3. Para cada comando que executar, faça:
+  565  echo "=== $(date) ===" >> ~/A-123456-notas.txt
+  566  echo "Comando: pwd" >> ~/A-123456-notas.txt
+  567  pwd >> ~/A-123456-notas.txt
+  568  echo "" >> ~/A-123456-notas.txt
+  569  # 4. Veja o conteúdo sempre que quiser
+  570  cat ~/A-123456-notas.txt
+  571  ls
+  572  cd ..
+  573  ls
+  574  nano A-134238-notas.txt 
+  575  rm A-123456-notas.txt 
+  576  rm A-134238-notas.txt 
+  577  ls
+  578  cd LI2025-Teste04
+  579  ls
+  580  nano A-123456-notas.txt
+  581  ls
+  582  cd ..
+  583  ls
+  584  cd LI2025-Teste04
+  585  ls
+  586  history > comandos.txt
